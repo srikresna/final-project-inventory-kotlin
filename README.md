@@ -6,7 +6,7 @@ The final project of the first semester basic programming subjects. I rebuild th
 
 ## Original Project
 
-https://github.com/srikresna/final-project-inventory
+[Final Project Inventory JAVA](https://github.com/srikresna/final-project-inventory)
 
 ## Contributing
 
